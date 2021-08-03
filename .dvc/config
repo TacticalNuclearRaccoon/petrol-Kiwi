@@ -1,6 +1,8 @@
 [core]
-    remote = myremote
+    remote = myremote3
 ['remote "myremote"']
     url = ../ gdrive:/1QgNdae7Q3ABVk8Rx1PjiBSjAXXEBeZk0
 ['remote "myremote2"']
     url = gdrive://1QgNdae7Q3ABVk8Rx1PjiBSjAXXEBeZk0
+['remote "myremote3"']
+    url = /tmp/dvc-storage
